@@ -1,0 +1,13 @@
+.home{
+    padding-top: 3rem;
+}
+.container{
+    padding: 1rem 10rem !important;
+}
+.productCardContainer{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 4rem;
+}

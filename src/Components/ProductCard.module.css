@@ -1,0 +1,11 @@
+.image{
+    height: 6rem;
+    width: 6rem !important;
+    align-self: center;
+    margin: 1rem;
+}
+.cardcontainer{
+    height: 20rem !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none !important;
+}

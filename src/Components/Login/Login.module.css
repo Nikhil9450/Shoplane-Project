@@ -1,0 +1,46 @@
+.Login_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(253, 253, 253);
+    padding: 2rem 0rem;
+}
+.custom_container {
+    max-width: 800px; /* Adjust the width as needed */
+    margin: auto;
+    height: 100%; /* Center the container */
+  }
+
+.form_container{
+    padding: 1rem;
+    background-color: rgb(226, 226, 226);
+    height: 95%;
+    padding: 1rem 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+
+.label{
+    font-size: small;
+    margin-bottom: 0 !important;
+    margin-top: .5rem;
+    font-weight: 600;
+}
+
+.under_text{
+    font-size: 11px !important;
+    padding-bottom: 0px !important;
+}
+
+.signinbtn{
+    margin-top: 2rem !important;
+    width: 100%;
+}
+
+.signupbtn{
+    width: 100%;
+    margin-top: 1rem;
+}
+
